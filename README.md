@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, me chamo Henrique Rios</h1>
+<h1 align="center">Oi 👋, me chamo Luiz Henrique Rios</h1>
 <h3 align="center">Apenas um curioso tentando entender como as coisas funcionam</h3>
 
 - 🔭 Esse foi um dos projetos que mais aprendi [Blogs API](https://github.com/LHenriquerios/Blogs-API)
