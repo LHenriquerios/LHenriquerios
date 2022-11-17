@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, POO e Desing Patterns**
 
-- 💬 Me pergunte sobre **fundamentos de programação e lol XD**
+- 💬 Me pergunte sobre **criação de API em ambiente Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
