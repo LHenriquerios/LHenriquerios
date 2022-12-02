@@ -3,9 +3,9 @@
 
 - 🔭 Esse foi um dos projetos que mais aprendi [Blogs API](https://github.com/LHenriquerios/Blogs-API)
 
-- 🌱 Atualmente estou aprendendo **Python, POO e Desing Patterns**
+- 🌱 Atualmente estou aprendendo **Python, POO e Desing Patterns e Web Design**
 
-- 💬 Me pergunte sobre **criação de API em ambiente Node.js**
+- 💬 Me pergunte sobre **desenvolvimento web e tenologia** que vamos conversar por horaas!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
