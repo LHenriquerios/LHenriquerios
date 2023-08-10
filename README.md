@@ -3,7 +3,7 @@
 
 - 🔭 Esse foi um dos projetos que mais aprendi [Blogs API](https://github.com/LHenriquerios/Blogs-API)
 
-- 🌱 Atualmente estou aprendendo **Python, POO e Desing Patterns e Web Design**
+- 🌱 Atualmente estou aprendendo **Python, POO e Desing Patterns**
 
 - 💬 Me pergunte sobre **desenvolvimento web e tenologia** que vamos conversar por horaas!
 
