@@ -1,11 +1,22 @@
-<h1 align="center">Oi 👋, me chamo Luiz Henrique Rios</h1>
-<h3 align="center">Escolhi esse caminho pra tentar entender como as coisas funcionam</h3>
+# Olá! Eu sou Luiz Henrique Rios 👋
 
-- 🔭 Esse foi um dos projetos que mais aprendi [Blogs API](https://github.com/LHenriquerios/Blogs-API)
+Estudante de Análise e Desenvolvimento de Sistemas buscando compreender profundamente o mundo da tecnologia.
 
-- 🌱 Atualmente estou aprendendo **Java, Spring, e estudando pra tirar minha certificação AWS**
+## 🔭 Projetos Destacados
 
-- 💬 Me pergunte sobre **Carreira e Tecnologia** que vamos conversar por horaas!
+Um dos meus projetos mais significativos foi a implementação de uma API para Blogs, proporcionando uma valiosa experiência de aprendizado.
+
+## 🌱 Atualmente
+
+Aprimorando habilidades em Java, Spring, e me preparando para obter a certificação AWS.
+
+## 🚀 Objetivos Profissionais
+
+Busco oportunidades na área de dados, combinando meu conhecimento em programação com a paixão por tecnologia.
+
+## 💬 Vamos Conversar
+
+Estou aberto para discussões sobre carreira e tecnologia. Sinta-se à vontade para me fazer perguntas ou iniciar uma conversa!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
